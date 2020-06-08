@@ -1,5 +1,5 @@
 ## Introduction
-As part of of the application process, we would like you to complete a small task so we can get a better understanding of the way you work, and how you would approach a problem.
+As part of the application process, we would like you to complete a small task so we can get a better understanding of the way you work, and how you would approach a problem.
 The task is a fairly short one, which we estimate should take 1-2 hours to complete.
 
 ## Our stack/technologies
@@ -16,7 +16,7 @@ The task is a fairly short one, which we estimate should take 1-2 hours to compl
 	- [stripe](https://www.npmjs.com/package/stripe)
 - Liquid - [platformOS](https://documentation.platformos.com/api-reference/liquid/introduction)/[Shopify](https://shopify.dev/docs/themes/liquid/reference/basics)
 - [GraphQL](https://documentation.platformos.com/api-reference/graphql/glossary)
-- [Postgres](https://www.postgresql.org/)
+- [Postgresql](https://www.postgresql.org/)
 
 ## The Task
 As an introduction, we'd like to see how you would use React to display results from an open source API - [Dog API](https://dog.ceo/dog-api/documentation/)
