@@ -22,6 +22,6 @@ The task is a fairly short one, which we estimate should take 1-2 hours to compl
 As an introduction, we'd like to see how you would use React to display results from an open source API - [Dog API](https://dog.ceo/dog-api/documentation/)
 
 * Create a new React app
-* The homepage should have links to 5 dog breed views (that are supported by Dog API)
+* The homepage should have links to 5 dog breed views that are supported by Dog API (bonus points if you list a breed someone at Siteglide has!)
 * On each dog breed view (e.g. 'Labrador') you should output 3 images using Dog API
 * Store your project in a public GitHub repository
